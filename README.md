@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="0NE.png" alt="SpaceDust Logo" width="100%" />
+  <img src="ONE.png" alt="SpaceDust Logo" width="100%" />
 </p>
 
 # SpaceDust
