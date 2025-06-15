@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="0NE.png" alt="SpaceDust Logo" width="100%" />
+</p>
+
 # SpaceDust
 
 **The Sacred Scientific Metaverse**  
